@@ -1,16 +1,27 @@
-### Hi there 👋
+## Skills
 
-<!--
-**Micka070702/Micka070702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SHELL SCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-Here are some ideas to get you started:
+_Currently in the process of learning C++ and enhancing my skills in Python and PHP._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Test
+<p align="center">
+  <br/>
+  </a>
+  <a href="https://fr.m.wikipedia.org/wiki/Fichier:Python-logo-notext.svg">
+    <img alt="Python" width="10%" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
+
+
+
+
+<p align="center">
+  <br/>
+  </a>
+  <a href="https://www.linkedin.com/in/rollet-raphael/">
+    <img alt="Linkedin rollet raphael" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+  </a>
+</p>
