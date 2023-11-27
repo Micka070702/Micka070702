@@ -33,10 +33,10 @@ _Currently improving my Python skills as well as learning C++._
     <img alt="Mon Discord (fiffty07)" width="100px" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/micka.aitelli/">
-    <img alt="Mon Insta (pas tres actif)" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Mon Insta (pas tres actif)" width="115px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/micka%C3%ABl-a%C3%AFtelli-39000a246/">
-    <img alt="Mon Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="Mon Linkedin" width="105px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
